@@ -16,6 +16,7 @@ My passion in technology and programming skills drive me to start a new knowledg
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Financial Data** https://github.com/mabittar/FinancialData
+* **Análise de dados do Airbnbn do Rio de Janeiro** https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb
 
 
 ---
