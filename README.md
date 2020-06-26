@@ -13,10 +13,12 @@ My passion in technology and programming skills drive me to start a new knowledg
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os meus projetos publicados:
 
-* **Financial Data** https://github.com/mabittar/FinancialData
-* **Análise de dados do Airbnbn do Rio de Janeiro** https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb
+* **Financial Data** [Portfolio](https://github.com/mabittar/FinancialData)
+* *Data Science na Prática*
+ * **Análise de dados do Airbnbn do Rio de Janeiro** [Link](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb)
+ * **Analisando a Violência no Rio de Janeiro** [Link](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 
 ---
