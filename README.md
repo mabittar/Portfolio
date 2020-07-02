@@ -29,8 +29,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    
    
 - ### Financial
-
- * [Financial Data](https://github.com/mabittar/FinancialData) - under development 
+  * [Financial Data](https://github.com/mabittar/FinancialData) - under development 
 
 ---
 
