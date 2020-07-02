@@ -19,6 +19,7 @@ Veja os meus projetos publicados:
 * *Data Science na Prática*
    * **Análise de dados do Airbnbn do Rio de Janeiro** [Link](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb)
    * **Analisando a Violência no Rio de Janeiro** [Link](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+   * **WordClouds a partir dos dados do AirBnB** [Link](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb)
 
 
 ---
