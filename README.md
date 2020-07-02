@@ -1,7 +1,7 @@
 # Marcel Bittar
 <sub>*Corporative Specialist Engineer* at Invepar</sub>
 
-I always work with large urban infrastructure and heavy civil projects linke Metro Sao Paulo (Line 2 and 5), Metro Salvador, GRU Airport, LEED Platinum commercial building;
+I always work with large urban infrastructure and heavy civil projects like Metro Sao Paulo (Line 2 and 5), Metro Salvador, GRU Airport, LEED Platinum commercial building;
 from the mobilization phase until its delivery. Deploying management systems with follow up productivity, planning and costs indicators, sizing teams and equipment to meet the deadline and customer requirements, also acted in preparation of Technical and Commercial documents request for proposal and final Analysis Proposals.
 
 *But my passion in technology and programming skills drive me to start a new knowledgment area in Computer Engineering.*
