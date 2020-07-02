@@ -1,10 +1,11 @@
 # Marcel Bittar
-<sub>*Corporative Specialist Engineer*</sub>
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 *My passion in technology and programming skills drive me to start a new knowledgment area in Computer Engineering. I uses this repo to track my projects.*
 
 But I always work with large urban infrastructure and heavy civil projects like Metro Sao Paulo (Line 2 and 5), Metro Salvador, GRU Airport, LEED Platinum commercial building;
 from the mobilization phase until its delivery. Deploying management systems with follow up productivity, planning and costs indicators, sizing teams and equipment to meet the deadline and customer requirements, also acted in preparation of Technical and Commercial documents request for proposal and final Analysis Proposals.
+
 
 
 
@@ -15,15 +16,22 @@ from the mobilization phase until its delivery. Deploying management systems wit
 * [Medium](https://medium.com/@marcelmartinsbittar)
 
 
-## Projects:
-See my projects published:
+_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+
+## Contents
+
+- ### Data Analysis and Visualisation
 
 
-* *Data Science na Prática*
-   * **Data analysis from AirBnB in Rio de Janeiro:** [Link](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb)
-   * **Analyzing Violence in Rio de Janeiro:** [Link](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
-   * **WordClouds from AirBnB data:** [Link](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb)
+   * [Data analysis from AirBnB in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb): Analysis of AirBnB data from Rio de Janeiro and its implications
+   * [Analyzing Violence in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) : Exploratory Analysis of the violance data in RJ.
+   * [WordClouds from AirBnB data](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb) : Another way to display data. Using wordclouds to analysis data of AirBnB sumarary.
+   
+   
+- ### Financial
 
 * **Financial Data** [Portfolio](https://github.com/mabittar/FinancialData) - under development 
 
 ---
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at [mail](ma_bittar@yahoo.com.br). 
