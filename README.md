@@ -22,10 +22,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Data Analysis and Visualisation
 
-
+   * [Panorama of Covid-19](https://github.com/mabittar/Portfolio/blob/master/Panorama_do_COVID_19_no_Mundo.ipynb): Using an dataset from World in Data to explore the panorama of Covid-19 in world.
+   * [WordClouds from AirBnB data](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb) : Another way to display data. Using wordclouds to analysis data of AirBnB sumarary.
    * [Data analysis from AirBnB in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb): Analysis of AirBnB data from Rio de Janeiro and its implications
    * [Analyzing Violence in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) : Exploratory Analysis of the violance data in RJ.
-   * [WordClouds from AirBnB data](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb) : Another way to display data. Using wordclouds to analysis data of AirBnB sumarary.
+
    
    
 - ### Financial
