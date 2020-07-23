@@ -20,6 +20,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ### Machine Learning
+    * [Single / Multiple Linear Regression](https://github.com/mabittar/Portfolio/blob/master/ML2_Regressao_Linear.ipynb): Using an Kraggle dataset to analysis house price prediction. Evaluating R2 score, MSE and MAE to compare single / multiple regression
+
 - ### Data Analysis and Visualisation
 
    * [Panorama of Covid-19](https://github.com/mabittar/Portfolio/blob/master/Panorama_do_COVID_19_no_Mundo.ipynb): Using an dataset from World in Data to explore the panorama of Covid-19 in world.
