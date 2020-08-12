@@ -12,6 +12,7 @@ from the mobilization phase until its delivery. Deploying management systems wit
 **Background in:** Python, Machine Learning, infrastructure and heavy projects.
 
 **Links:**
+* [WebSite](https://mabittar.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/marcelbittar/?locale=en_US)
 * [Medium](https://medium.com/@marcelmartinsbittar)
 
