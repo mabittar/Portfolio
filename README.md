@@ -22,6 +22,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 - ### Machine Learning
+    * [Churn Rate](https://github.com/mabittar/Portfolio/blob/master/Churn_Predict.ipynb): Analysis of Churn Rate with differents ML models: XGboost, SVC, Decision Tree, Voting Method. Tunning hyperparameters with Grid Search (manual) and BayesSearchCV (automatic). At least I used SHAP (SHapley Additive exPlanations) to explain what's influence more the ML model.
     * [Ensemble Method](https://github.com/mabittar/Portfolio/blob/master/ML11_Ensemble.ipynb): Using ensemble method to optimize diferents ML models to classify an makrting campaing
     * [Fraud Detection on Credit Card Transactions](https://github.com/mabittar/Portfolio/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_CC.ipynb): Comparison of metrics assessment using logistic regression and decision tree to identify fraud in credit card transactions
     * [Single / Multiple Linear Regression](https://github.com/mabittar/Portfolio/blob/master/ML2_Regressao_Linear.ipynb): Using an Kraggle dataset to analysis house price prediction. Evaluating R2 score, MSE and MAE to compare single / multiple regression
