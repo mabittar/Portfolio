@@ -21,6 +21,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ### Deep Learning
+   * [Traffic Sign Recognition](https://github.com/mabittar/Portfolio/blob/master/Reconhecendo_Sinais_Tr%C3%A2nsito.ipynb): Using Convolutinal Network recognize traffic signs. The model obtained 95% accuracy during training and above 80% in the test. I also used a random sign directly from the web to check if the model would correctly identify it.
+
 - ### Machine Learning
     * [Churn Rate](https://github.com/mabittar/Portfolio/blob/master/Churn_Predict.ipynb): Analysis of Churn Rate with differents ML models: XGboost, SVC, Decision Tree, Voting Method. Tunning hyperparameters with Grid Search (manual) and BayesSearchCV (automatic). At least I used SHAP (SHapley Additive exPlanations) to explain what's influence more the ML model.
     * [Ensemble Method](https://github.com/mabittar/Portfolio/blob/master/ML11_Ensemble.ipynb): Using ensemble method to optimize diferents ML models to classify an makrting campaing
