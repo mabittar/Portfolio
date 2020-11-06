@@ -21,6 +21,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+- ### Model Deploy
+  * [RealState in Sao Paulo](https://github.com/mabittar/imovsp): All steps to deployment of an API of Machine Learning model to predict values for Sao Paulo RealState.
+  
 - ### Deep Learning
    * [Traffic Sign Recognition](https://github.com/mabittar/Portfolio/blob/master/Reconhecendo_Sinais_Tr%C3%A2nsito.ipynb): Using Convolutinal Network recognize traffic signs. The model obtained 95% accuracy during training and above 80% in the test. I also used a random sign directly from the web to check if the model would correctly identify it.
 
