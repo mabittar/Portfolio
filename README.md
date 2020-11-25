@@ -26,6 +26,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   
 - ### Deep Learning
    * [Traffic Sign Recognition](https://github.com/mabittar/Portfolio/blob/master/Reconhecendo_Sinais_Tr%C3%A2nsito.ipynb): Using Convolutinal Network recognize traffic signs. The model obtained 95% accuracy during training and above 80% in the test. I also used a random sign directly from the web to check if the model would correctly identify it.
+   * [Fake News Classifier](https://github.com/mabittar/Portfolio/blob/master/Classificador_FakeNews.ipynb): Using keras to predict if a news is Fake or Real. The model obtained 98% of accuracy.
 
 - ### Machine Learning
     * [Default Risk](https://github.com/mabittar/Portfolio/blob/master/Risco_Inadimpl%C3%AAncia.ipynb): A Machine Learning model using RandomForest, SVC, Decision Tree, bayes tunning to XGBoost and Keras to identify whether a customer is possibly unable to meet his obligations (default risk) and consequently affect credit risk and thus interest rates.
