@@ -1,6 +1,7 @@
 # Marcel Bittar
 
-[![author](https://img.shields.io/badge/Author-MarcelBittar-blue)](https://www.linkedin.com/in/marcelbittar/) [![](https://img.shields.io/badge/python-3.8.6+-blue.svg)](https://www.python.org/downloads/release/python-386/) [![](https://img.shields.io/badge/License-BSD%203--Clause-blue)](https://raw.githubusercontent.com/mabittar/imovsp/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mabittar/imovsp/issues)
+[![author](https://img.shields.io/badge/Author-MarcelBittar-blue)](https://www.linkedin.com/in/marcelbittar/) [![](https://img.shields.io/badge/python-3.8.6+-blue.svg)](https://www.python.org/downloads/release/python-386/)  [![](https://img.shields.io/github/languages/top/mabittar/Portfolio)](https://mabittar.github.io/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mabittar/Portfolio/issues)
+
 
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
