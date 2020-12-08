@@ -49,7 +49,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Crawlers
 
- * [Metro SP Status](https://github.com/mabittar/Portfolio/blob/master/MetroSP_crawler.ipynb): Using BeautifulSoup to aquire operation info and save the data to a public google spreadsheet after authorization.
+   * [Metro SP Status](https://github.com/mabittar/Portfolio/blob/master/MetroSP_crawler.ipynb): Using BeautifulSoup to aquire operation info and save the data to a public google spreadsheet after authorization.
    
    
 - ### Financial
