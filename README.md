@@ -53,7 +53,57 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    
    
 - ### Financial
-  * [Financial Data](https://github.com/mabittar/FinancialData) - under development 
+  * [Financial Data](https://github.com/mabittar/FinancialData)
+  <li>Tecnical Analysis (graphic)
+       <ol>
+       <li>[x] Acquiring financial data (date, open, close, max, min, volume, adjust close)
+                     <ul>                    
+                     <li>[x] - YFinance (yahoo finance data)</li>
+                      <li>[link](https://github.com/mabittar/FinancialData/blob/master/technical_analysis/YFinance_Stock_data.ipynb)</li>
+                     <li>[x] - Quandl</li>
+                      <li>[link](https://github.com/mabittar/FinancialData/blob/master/technical_analysis/Quandl_Stock_data.ipynb)</li>
+                     <li>[x] - Pandas DataReaders</li>
+                      <li>[link](https://github.com/mabittar/FinancialData/blob/master/technical_analysis/Pandas_datareader_Get_Stock_data.ipynb)</li>
+                     <li>...</li>
+                     <li>[x] - export data to others steps</li>
+                     </ul>
+              <ol>
+              <li>[ ] Compare different ways of acquiring data</li> 
+              </ol>
+       </li>
+       <li>[x]Treating data</li> 
+       <li>[ ]Statistical Analysis </li> 
+              <ol>
+              <li>Graphics and display data
+                     <ul>
+                     <li>[x] close price at time</li>
+                            <li>[x] adjusted close price</li>
+                            <li>[x] normalize and compare diferente stocks close price at same start time</li>
+                            <li>[x] normalize and compare return</li>
+                            <li>[x] moving avarge</li>
+                            <li>[ ] Bollinger Bands</li>
+                            <li>[ ] exponential movving avarge </li>
+                     </ul>
+              </li>      
+              </ol>
+      </ol>
+<li>Fundamentalist Analysis
+       <ol>
+       <li>[x] Acquiring open company data
+              <ul>
+                     <li>[x] Fundamentus (fundamentus.com.br)</li> 
+                     <li>[link](https://github.com/mabittar/FinancialData/blob/master/fundamental_analysis/Fundamentalist.ipynb)</li>
+                     <li>[ ] Other Economics indexes</li>
+              </ul>
+       </li>
+       <li>[x] Treating data</li>
+       <li>[ ] Statistical Analysis</li>
+              <ul>
+              <li>[ ] Correlational x Influence in stock price</li>
+              </ul>
+      </ol>
+</li>
+</ol>
 
 ---
 
