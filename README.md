@@ -54,6 +54,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    
 - ### Financial
   * [Financial Data](https://github.com/mabittar/FinancialData)
+   * [Algo Trade](https://github.com/mabittar/Portfolio/blob/master/Stock_Technical_Analysis.ipynb): Using all examples below to make an AlgoTrading with Moving Averages.
   <li>Tecnical Analysis (graphic)
        <ol>
        <li>[x] Acquiring financial data (date, open, close, max, min, volume, adjust close)
@@ -68,11 +69,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
                      <li>[x] - export data to others steps</li>
                      </ul>
               <ol>
-              <li>[ ] Compare different ways of acquiring data</li> 
+              <li>[x] Compare different ways of acquiring data</li> 
               </ol>
        </li>
        <li>[x]Treating data</li> 
-       <li>[ ]Statistical Analysis </li> 
+       <li>[x]Statistical Analysis </li> 
               <ol>
               <li>Graphics and display data
                      <ul>
@@ -80,9 +81,10 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
                             <li>[x] adjusted close price</li>
                             <li>[x] normalize and compare diferente stocks close price at same start time</li>
                             <li>[x] normalize and compare return</li>
+                            <li>[x] peaks (highs) or troughs (lows)
                             <li>[x] moving avarge</li>
                             <li>[ ] Bollinger Bands</li>
-                            <li>[ ] exponential movving avarge </li>
+                            <li>[x] exponential movving avarge </li>
                      </ul>
               </li>      
               </ol>
