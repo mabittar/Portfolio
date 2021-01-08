@@ -47,9 +47,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    * [Data analysis from AirBnB in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb): Analysis of AirBnB data from Rio de Janeiro and its implications.
    * [Analyzing Violence in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) : Exploratory Analysis of the violance data in RJ.
 
-- ### Crawlers
+- ### Crawlers | Scrapers
 
    * [Metro SP Status](https://github.com/mabittar/Portfolio/blob/master/MetroSP_crawler.ipynb): Using BeautifulSoup to aquire operation info and save the data to a public google spreadsheet after authorization.
+   * [DuckDuckGo - API](https://github.com/mabittar/Portfolio/blob/master/DuckDuckGoAPI.py): A script to consume API based on concepts of clean Architecture, spliting input, process and output in differents functions.
+   * [PNG-Mart](https://github.com/mabittar/Portfolio/blob/master/PNGMart_Scraper.ipynb): A scraper to donwload imagens from the site. Based on concepts of clean Architecture
    
    
 - ### Financial
