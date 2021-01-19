@@ -48,11 +48,12 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    * [Analyzing Violence in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) : Exploratory Analysis of the violance data in RJ.
 
 - ### Crawlers | Scrapers
-
+   * [YouTube Channel Metadados](https://github.com/mabittar/Portfolio/blob/master/YouTube_Scaper.ipynb): Frist tried to use BeautifulSoup to aquire metadados from an YouTube Channel, like videos titles, tags, likes, comments, but is not allowed (automatic access). Second try usingo YouTube API to get all data from the channel. Got some insights from data and add some data visualization. All steps to create an Autorized Google API, how to ingest data and parser to a dataframe. Convert correctly datetime and other usefull features for futher analysis.
    * [Metro SP Status](https://github.com/mabittar/Portfolio/blob/master/MetroSP_crawler.ipynb): Using BeautifulSoup to aquire operation info and save the data to a public google spreadsheet after authorization.
    * [DuckDuckGo - API](https://github.com/mabittar/Portfolio/blob/master/DuckDuckGoAPI.py): A script to consume API based on concepts of clean Architecture, spliting input, process and output in differents functions.
    * [PNG-Mart](https://github.com/mabittar/Portfolio/blob/master/PNGMart_Scraper.ipynb): A scraper to donwload imagens from the site. Based on concepts of clean Architecture
    
+  
    
 - ### Financial
   * [Financial Data](https://github.com/mabittar/FinancialData)
