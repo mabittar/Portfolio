@@ -14,7 +14,7 @@ from the mobilization phase until its delivery. Deploying management systems wit
 
 
 
-**Background in:** Python, Machine Learning, infrastructure and heavy projects.
+**Background in:** Python, Machine Learning, Django, AWS and infrastructure for heavy projects.
 
 **Links:**
 * [WebSite](https://mabittar.github.io/)
@@ -41,7 +41,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     * [Single / Multiple Linear Regression](https://github.com/mabittar/Portfolio/blob/master/ML2_Regressao_Linear.ipynb): Using an Kraggle dataset to analysis house price prediction. Evaluating R2 score, MSE and MAE to compare single / multiple regression
 
 - ### Data Analysis and Visualisation
-
    * [Panorama of Covid-19](https://github.com/mabittar/Portfolio/blob/master/Panorama_do_COVID_19_no_Mundo.ipynb): Using an dataset from World in Data to explore the panorama of Covid-19 in world.
    * [WordClouds from AirBnB data](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb) : Another way to display data. Using wordclouds to analysis data of AirBnB sumarary.
    * [Data analysis from AirBnB in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb): Analysis of AirBnB data from Rio de Janeiro and its implications.
@@ -53,8 +52,14 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    * [DuckDuckGo - API](https://github.com/mabittar/Portfolio/blob/master/DuckDuckGoAPI.py): A script to consume API based on concepts of clean Architecture, spliting input, process and output in differents functions.
    * [PNG-Mart](https://github.com/mabittar/Portfolio/blob/master/PNGMart_Scraper.ipynb): A scraper to donwload imagens from the site. Based on concepts of clean Architecture
    
-  
+- ### Django
+ * [Eventex](https://github.com/mabittar/eventex/tree/master): My first project using Django webframe. Ready is when it's online, some check it at: [Eventex](https://eventex-mmb.herokuapp.com/)
    
+- ### Dockers and Containers
+ * [Eventex - container](https://github.com/mabittar/wttd_docker): After I started the project [Eventex](https://github.com/mabittar/eventex/tree/master) I also made a container to easily deployment.
+ 
+ 
+ 
 - ### Financial
   * [Financial Data](https://github.com/mabittar/FinancialData)
    * [Algo Trade](https://github.com/mabittar/Portfolio/blob/master/Stock_Technical_Analysis.ipynb): Using all examples below to make an AlgoTrading with Moving Averages.
