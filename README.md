@@ -4,12 +4,12 @@
 
 
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
 
-*My passion in technology and programming skills drive me to start a new knowledgment area in Computer Engineering. I uses this repo to track my projects.*
+*My passion in technology and programming skills drive me to start a new knowledgment area in Computer Engineering. I use this repo to track my projects.*
 
 But I always work with large urban infrastructure and heavy civil projects like Metro Sao Paulo (Line 2 and 5), Metro Salvador, GRU Airport, LEED Platinum commercial building;
-from the mobilization phase until its delivery. Deploying management systems with follow up productivity, planning and costs indicators, sizing teams and equipment to meet the deadline and customer requirements, also acted in preparation of Technical and Commercial documents request for proposal and final Analysis Proposals.
+
 
 
 
