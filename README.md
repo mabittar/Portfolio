@@ -53,7 +53,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    * [PNG-Mart](https://github.com/mabittar/Portfolio/blob/master/PNGMart_Scraper.ipynb): A scraper to donwload imagens from the site. Based on concepts of clean Architecture
    
 - ### Django
-  * [Eventex](https://github.com/mabittar/eventex/tree/master): My first project using Django webframe. Ready is when it's online, some check it at: [Eventex](https://eventex-mmb.herokuapp.com/)
+  * [Eventex](https://github.com/mabittar/eventex/tree/master): My first project using Django webframe. Ready is when it's online, came and check it at: [Eventex](https://eventex-mmb.herokuapp.com/)
    
 - ### Dockers and Containers
   * [Eventex - container](https://github.com/mabittar/wttd_docker): After I started the project [Eventex](https://github.com/mabittar/eventex/tree/master) I also made a container to easily deployment.
