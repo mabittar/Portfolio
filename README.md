@@ -41,6 +41,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     * [Single / Multiple Linear Regression](https://github.com/mabittar/Portfolio/blob/master/ML2_Regressao_Linear.ipynb): Using an Kraggle dataset to analysis house price prediction. Evaluating R2 score, MSE and MAE to compare single / multiple regression
 
 - ### Data Analysis and Visualisation
+   * [Data Vis using Matplot, Seaborn and Bokeh](https://github.com/mabittar/Portfolio/blob/master/Visualiza%C3%A7%C3%B5es_de_Dados.ipynb): A guide step by step to build plots using Matplot and Seaborn from real datasets. Also made a iteractive plot using Bokeh. It is an interactive visualization library for modern web browsers.
    * [Panorama of Covid-19](https://github.com/mabittar/Portfolio/blob/master/Panorama_do_COVID_19_no_Mundo.ipynb): Using an dataset from World in Data to explore the panorama of Covid-19 in world.
    * [WordClouds from AirBnB data](https://github.com/mabittar/Portfolio/blob/master/Wordcloud.ipynb) : Another way to display data. Using wordclouds to analysis data of AirBnB sumarary.
    * [Data analysis from AirBnB in Rio de Janeiro](https://github.com/mabittar/Portfolio/blob/master/Analise_de_Dados_dispon%C3%ADvel_no_Airbnb.ipynb): Analysis of AirBnB data from Rio de Janeiro and its implications.
