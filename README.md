@@ -55,6 +55,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
    
 - ### Django
   * [Eventex](https://github.com/mabittar/eventex/tree/master): My first project using Django webframe. Ready is when it's online, came and check it at: [Eventex](https://eventex-mmb.herokuapp.com/)
+
+- ### GUI
+  * [Password Generator](https://github.com/mabittar/pass_gen): A password generator using tkinter and secrets python's modules. Using scaler bar to choose password length and copy button to add in the clipboard. No other dependencies is need to run this app.
    
 - ### Dockers and Containers
   * [Eventex - container](https://github.com/mabittar/wttd_docker): After I started the project [Eventex](https://github.com/mabittar/eventex/tree/master) I also made a container to easily deployment.
