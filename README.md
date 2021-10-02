@@ -27,7 +27,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 - ### Framework
-- * [FastAPI Starter](https://github.com/mabittar/fast): A multi purpose fastapi template already structured. Just clone and start develop. In this template you have examples of connectors to others API, CRUD using SQLite and SQLModel to handle with datta, simples cache strucute and much more.
+- * [FastAPI Starter](https://github.com/mabittar/fast): A multi purpose fastapi template already structured. Just clone and start develop. In this template you have examples of CRUD using SQLite and SQLModel to handle with datta, connectors to external API, simples cache strucute, docker yml and dockerfile and makefile to fast start a project local or in production.
 
 - ### Model Deploy
   * [RealState in Sao Paulo](https://github.com/mabittar/imovsp): All steps to deployment of an API that´s use an Machine Learning model to predict values for Sao Paulo RealState.
