@@ -27,6 +27,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 - ### Framework
+- * [FastAPI Spam Predictor](https://github.com/mabittar/spam_ml):  An asynchronous API developed to consume a spam predictor. Using FastAPI, postgres, SQLAchemy 1.4 to delivery a high performance API. With docker-compose you be able to reproduce it locally. To use it, will need to register a new user. Every user has a number of uses in the machine learning endpoint.
+ 
 - * [FastAPI Starter](https://github.com/mabittar/fast): A multi purpose fastapi template already structured. Just clone and start develop. In this template you have examples of CRUD using SQLite and SQLModel to handle with datta, connectors to external API, simples cache strucute, docker yml and dockerfile and makefile to fast start a project local or in production.
 
 - ### Model Deploy
