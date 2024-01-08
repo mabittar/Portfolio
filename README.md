@@ -4,17 +4,15 @@
 
 
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
+Repository containing portfolio my projects completed by me for academic, self learning, and hobby purposes. 
 
 *My passion in technology and programming skills drive me to start a new knowledgment area in Computer Engineering. I use this repo to track my projects.*
 
-But I always work with large urban infrastructure and heavy civil projects like Metro Sao Paulo (Line 2 and 5), Metro Salvador, GRU Airport, LEED Platinum commercial building;
 
 
 
 
-
-**Background in:** Python, Machine Learning, Django, AWS and infrastructure for heavy projects.
+**Background in:** Python, FastAPI, Machine Learning, Django, infrastructure for heavy projects.
 
 **Links:**
 * [WebSite](https://mabittar.github.io/)
